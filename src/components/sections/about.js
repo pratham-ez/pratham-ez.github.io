@@ -138,9 +138,9 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Android Development (Java/Kotlin)',
-    'Flutter Development',
-    'React Native',
+    'Web Development',
+    'Rest Api',
+    'React Js',
     'Problem Solving',
     'NodeJS',
     'Express',
@@ -158,13 +158,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Divyank Lunkad, a final-year student with keen interest in Data Structures
-              and Algorithms.
+              Hello! I'm Pratham Khodwe, a Pre-final year student with keen interest in Data
+              Structures and Algorithms.
             </p>
 
             <p>
-              I am pursuing my Bachelors from <a href="https://pict.edu/">PICT, Pune</a> in Computer
-              Science (2018-2022) with Cumulative GPA of 9.56/10.
+              I am pursuing my Bachelors from{' '}
+              <a href="https://bvuniversity.edu.in/index.php/institutes-campus-wise/pune-dhankawadi/college-of-engineering-pune">
+                BVDCOEP, Pune
+              </a>{' '}
+              in Computer Science (2020-2024) with Cumulative GPA of 9.70/10.
             </p>
 
             <p>Here are a few skills and technologies I've been working with recently:</p>

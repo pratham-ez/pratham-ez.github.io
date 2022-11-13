@@ -1,27 +1,26 @@
 module.exports = {
-  siteTitle: 'Divyank Lunkad\'s Portfolio',
+  siteTitle: 'Pratham Khodwe\'s Portfolio',
   siteDescription:
-    'Divyank Lunkad is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
-  siteKeywords:
-    'Divyank Lunkad, Divyank, Lunkad, divyank00, software engineer, android developer',
-  siteUrl: 'https://divyank00.github.io',
+    'Pratham Khodwe is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+  siteKeywords: 'Pratham khodwe, Pratham, Khodwe, pratham-ez, software engineer, android developer',
+  siteUrl: 'https://pratham-ez.github.io',
   siteImage: 'images/og.png',
   siteLanguage: 'en_US',
-  name: 'Divyank Lunkad',
+  name: 'Pratham Khodwe',
   location: 'Nasik, India',
-  email: 'lunkaddivyank@gmail.com',
-  phone: '+917020322459',
-  github: 'https://github.com/divyank00',
-  linkedIn: 'https://www.linkedin.com/in/divyank00/',
-  twitterHandle: '@divyank_00',
+  email: 'prathamkhodwe@gmail.com',
+  phone: '+919657544917',
+  github: 'https://github.com/pratham-ez',
+  linkedIn: 'https://www.linkedin.com/in/pratham-khodwe-31bb00209/',
+  twitterHandle: '',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/divyank00',
+      url: 'https://github.com/pratham-ez',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/divyank00/',
+      url: 'https://www.linkedin.com/in/pratham-khodwe-31bb00209/',
     },
   ],
 

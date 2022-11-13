@@ -1,10 +1,10 @@
 ---
-date: '5'
-title: 'Open Source Contributor'
-company: 'Google Summer of Code'
-info: 'AOSSIE'
-range: 'June 2021 - Aug 2021'
+date: '2'
+title: 'Web Developer Intern'
+company: 'Oeson Food by choice'
+info: 'Oeson'
+range: 'Aug 2020 - Sept 2020'
 ---
 
-- Target was to improvise the exisiting application to make it competent to publish on Play Store
-- Responsible for stabilizing the current state and adding hands on features before rolling out the first release
+- Worked on the Front End Development
+- Worked as a tester and resolved bugs to minimize the bugs before the first stable release

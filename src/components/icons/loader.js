@@ -24,7 +24,7 @@ const IconLoader = () => (
       />
     </g>
     <text x="36" y="65" fill="currentColor" fontSize="50px" fontFamily="calibre">
-      D
+      P
     </text>
   </svg>
 );

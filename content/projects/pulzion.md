@@ -1,14 +1,13 @@
 ---
 date: '1'
-title: "Pulzion '19"
-external: 'https://play.google.com/store/apps/details?id=com.pasc.pulzion19'
+title: 'Pig game'
+external: ''
 tech:
-  - Android
-  - Material Design
-  - Payment Gateway
-  - Firebase
+  - HTML
+  - CSS
+  - JS
 company: ''
 showInProjects: true
 ---
 
-This is an Android Application for college's annual program.
+This is an Web Game Application

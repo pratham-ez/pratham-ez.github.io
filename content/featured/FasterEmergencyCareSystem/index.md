@@ -1,16 +1,15 @@
 ---
 date: '4'
-title: 'Faster Emergency Care System'
-cover: 'FECS.jpg'
-github: 'https://github.com/divyank00/SOS-Car-Accident-Care-System-'
+title: 'Not Perish'
+cover: 'Codebreak.jpeg'
+github: 'https://github.com/pratham-ez/download-Perish.git'
 tech:
-  - Flutter
-  - Raspberry PI
-  - Python
+  - HTML
+  - CSS
+  - Vanila JS
   - Firebase
-  - Angular
-  - ElectronJS
+
 showInProjects: true
 ---
 
-Project in the field of IOT which used Rasberry Pi for accident detection and consisted of Mobile and Desktop Application for user-end. This can help in case of an accident, by informing the nearest hospital about the mishappening at early as possible.
+Project in the field of Web and App developmebt which used Web/Android languages for Expiry Reminder and consisted of Mobile and Desktop Application for user-end. This can help in case of an item expired, by sending the notification to the user about the item getting expired.

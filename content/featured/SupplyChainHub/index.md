@@ -1,18 +1,18 @@
 ---
 date: '5'
-title: '$upplyChainHub'
-cover: 'SCH.jpeg'
-github: 'https://github.com/divyank00/SupplyChainHub'
-external: 'https://youtu.be/NeOLXg60ikI'
+title: 'Quick and Snap Photo editor'
+cover: 'second.png'
+github: 'https://github.com/pratham-ez/Snap-and-Quick-Photo-Editor-'
+
 tech:
-  - Android
-  - Solidity
-  - Matic
-  - Ceramic
-  - socket.io
-  - Python
-  - React
+  - Web Development
+  - HTML
+  - CSS
+  - Advance JavaScript
+  - DOM manupulaion
+
 showInProjects: true
 ---
 
-This helps an user to create a dynamic and customized supply-chain at minimal cost.This helps end customers track the flow of the product and involved users to track the stored quantity of every user.
+Snap and Quick editor is a fully functional and responsive photo editor web application.
+Users can use multiple filters and edit tools to edit their photos.

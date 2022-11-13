@@ -1,14 +1,12 @@
 ---
 date: '3'
-title: "Evento"
-github: 'https://github.com/divyank00/Evento'
+title: 'Photo editor'
+github: ''
 tech:
-  - Android
-  - NodeJS
-  - Express
-  - MongoDB
+  - Web Development
+  - Advance Js
 company: ''
 showInProjects: true
 ---
 
-This is an Android Application for college's DBMS project.
+This is an Personal practice Project .
